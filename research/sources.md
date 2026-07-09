@@ -1,4 +1,4 @@
-# Sources — YouTube Content Strategy for B2B SaaS
+﻿# Sources — YouTube Content Strategy for B2B SaaS
 
 List of 10 experts selected for this research. All are SaaS founders/CEOs/investors
 who genuinely USE YouTube as a growth channel for their own product or brand —
@@ -25,7 +25,7 @@ Selection criteria:
 - **Why chosen:** Founder of 6 companies (5 bootstrapped), invested in 230+ startups. Podcast "Startups for the Rest of Us" has 800+ episodes and 15M+ downloads. The MicroConf channel has 6M+ views.
 - **Content focus:** Bootstrapped growth, GTM architecture, founder mindset
 
-## 3. Simon Høiberg
+## 3. Simon Hoiberg
 - **Channel:** https://www.youtube.com/@SimonHoiberg
 - **Brand:** FeedHive, LinkDrip, Aidbase (3 SaaS products he built himself)
 - **Why chosen:** A genuinely transparent solo founder — shares real numbers, coding process, even burnout. Actively building his 5th SaaS in 2026, with the latest AI-native content.
@@ -50,10 +50,11 @@ Selection criteria:
 - **Content focus:** GTM strategy, SaaS pricing, retention
 
 ## 7. Jonathan Rintala
-- **Channel:** (personal channel, linked to Univid)
+- **Channel:** (personal channel, linked to Univid) + blog at jonathanrintala.com
 - **Brand:** Univid (AI-powered webinar SaaS)
-- **Why chosen:** Building in public from $0 toward $5M ARR, specifically focused on B2B SaaS + video content.
+- **Why chosen:** Building in public from $0 toward $5M ARR, specifically focused on B2B SaaS + video content. Also author of the bestselling book "Growth Hacking Reddit" and a recognized creator across YouTube, LinkedIn, and TikTok.
 - **Content focus:** Product-led growth, GTM experiments, honest founder journey
+- **Note on materials:** His most in-depth strategic content is published as blog posts with embedded video, rather than as standalone, transcript-friendly YouTube uploads. His materials for this research are therefore collected in `research/other/jonathan-rintala.md` instead of `research/youtube-transcripts/`.
 
 ## 8. Arvid Kahl
 - **Channel:** https://www.youtube.com/@TheBootstrappedFounder (The Bootstrapped Founder)
