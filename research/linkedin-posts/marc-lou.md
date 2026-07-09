@@ -27,7 +27,7 @@ It's making $500/mo and sold for $18,000 in 12 days.
 
 ---
 
-## Post 3 — []
+## Post 3 — [25 JUNE]
 **Link:**https://www.linkedin.com/posts/marclouvion_startup-acquisition-103-on-trustmrr-activity-7473754987643314176-m_ea?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdDJBABRkq6lWqo_4ExIGA9A562Qkn24wU
 **Engagement:** [42 Likes. 3 Comments]
 
