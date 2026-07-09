@@ -5,13 +5,13 @@
 
 ---
 
-## Post 1 — [DATE]
-**Link:** [paste post URL here]
-**Engagement:** [X likes, X comments]
+## Post 1 — [JUNE 2026]
+**Link:** https://www.linkedin.com/posts/justinkan_your-private-portfolio-fully-illuminated-activity-7459624199465299968-_SN2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdDJBABRkq6lWqo_4ExIGA9A562Qkn24wU
+**Engagement:** [25 likes, 3 comments]
 
-> [Paste the post text here]
+>Over the last year I’ve found the Priview tool to be exceedingly helpful in analyzing my own LP positions in funds. Definitely recommend for anyone with multiple fund positions that wants to actually know what is in them.
 
-**Why relevant:** [1 sentence — what makes this post useful for the playbook, e.g. specific tactic, number, framework]
+**Why relevant:** This one's a thin product endorsement rather than a tactical data point — no specifics on what Priview does differently, no numbers, no framework, just a general recommendation for LPs tracking multiple fund positions. For the playbook, it's weak unless you're specifically cataloging tool recommendations rather than growth/GTM tactics.
 
 ---
 
